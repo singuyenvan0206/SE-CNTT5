@@ -6,9 +6,9 @@
  3.Đào Bá Đạt:***
  4.Đỗ Thế Toàn:***
  5.Tạ Bá Sáng:***
-#Bài toán: Xây dựng Phần mềm quản lý sản xuất nhằm mục đích chuẩn hóa lại quy trình, nâng cao hiệu quả hoạt động sản xuất, tối đa hóa năng suất của máy móc từ đó tối ưu được nguồn lực của đơn vị
+# Bài toán: Xây dựng Phần mềm quản lý sản xuất nhằm mục đích chuẩn hóa lại quy trình, nâng cao hiệu quả hoạt động sản xuất, tối đa hóa năng suất của máy móc từ đó tối ưu được nguồn lực của đơn vị
 #Yêu cầu:
-##Yêu cầu chức năng:
+## Yêu cầu chức năng:
 ###Quản lý dữ liệu về nguyên liệu, sản phẩm và chế độ sản xuất
 ###Quản lý quy trình sản xuất, bao gồm chuẩn bị, sản xuất và kiểm tra chất lượng
 ###Tự động hóa các quy trình sản xuất và quản lý các bước của quy trình
